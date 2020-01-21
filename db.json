@@ -1,8 +1,8 @@
 {
-  alerts: [
+  "alerts": [
     {
-      id: 1,
-      prio: 1,
+      "id": 1,
+      "prio": 1,
       "headline": "Wichtige Info",
       "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem\n" +
       "                    Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an\n" +
@@ -13,24 +13,24 @@
       "submitted": false
     },
     {
-      id: 2,
-      prio: 1,
+      "id": 2,
+      "prio": 1,
       "headline": "Wichtige Info 2",
       "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem",
       "read": true,
       "submitted": false
     },
     {
-      id: 3,
-      prio: 2,
+      "id": 3,
+      "prio": 2,
       "headline": "Wichtige Info 3",
       "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem",
       "read": true,
       "submitted": false
     },
     {
-      id: 4,
-      prio: 3,
+      "id": 4,
+      "prio": 3,
       "headline": "Wichtige Info 4",
       "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem",
       "read": true,
