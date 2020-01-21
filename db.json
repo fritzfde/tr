@@ -31,15 +31,21 @@
   "alerts": [
     {
       "id": 1,
-      "title": "Post 1"
+      "prio": 1,
+      "headline": "Wichtige Info",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry."
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "prio": 2,
+      "headline": "Wichtige Info",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply"
     },
     {
       "id": 3,
-      "title": "Post 3"
+      "prio": 3,
+      "headline": "Allgemeine Info",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem"
     }
   ]
 }
