@@ -1,20 +1,14 @@
 [
   {
     "id": 1,
-    "prio": 1,
-    "headline": "Wichtige Info",
-    "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    "title": "Post 1"
   },
   {
     "id": 2,
-    "prio": 2,
-    "headline": "Wichtige Info",
-    "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply"
+    "title": "Post 2"
   },
   {
     "id": 3,
-    "prio": 3,
-    "headline": "Allgemeine Info",
-    "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem"
+    "title": "Post 3"
   }
 ]
