@@ -1,39 +1,24 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ],
   "alerts": [
     {
-      "id": 1,
-      "prio": 1,
-      "headline": "Wichtige Info",
-      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry."
-    },
-    {
-      "id": 2,
-      "prio": 2,
-      "headline": "Wichtige Info",
-      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply"
-    },
-    {
-      "id": 3,
       "prio": 3,
-      "headline": "Allgemeine Info",
-      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem"
+      "headline": "Wichtige Info - Alert Prio 3 - 24.01, 14:14:56",
+      "content": "Lorem Ipsum is simply. Lorem Ipsum is simply. Lorem Ipsum is simply.",
+      "id": 1
+    },
+    {
+      "prio": 3,
+      "headline": "Wichtige Info - Alert Prio 3 - 24.01, 17:14:56",
+      "content": "24.01, 17:14:56 –— Lorem ipsum dolor, Lorem ipsum dolor, Lorem ipsum dolor, Lorem ipsum dolor, Lorem ipsum",
+      "created": "1579882496115",
+      "id": 2
+    },
+    {
+      "prio": 3,
+      "headline": "Wichtige Info - Alert Prio 3 - 25.01, 0:39:34",
+      "content": "25.01, 0:39:34 –— Lorem ipsum dolor, Lorem ipsum dolor, Lorem ipsum dolor, Lorem ipsum dolor, Lorem ipsum dolordolor, Lorem ipsum dolo",
+      "created": "1579909174584",
+      "id": 3
     }
-  ],
-  "profile": {
-    "name": "fritzfde"
-  }
+  ]
 }
