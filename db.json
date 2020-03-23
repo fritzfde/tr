@@ -24,7 +24,7 @@
       "id": 3
     },
     {
-      "prio": 1,
+      "prio": 3,
       "created": 1584885413545,
       "headline": "Wichtige Info 3",
       "content": "Dolor, Lorem ipsum dolor, Lorem ipsum dolor, Lorem ipsum dolor, Lorem ipsum dolordolor, Lorem ipsum dolor, Lorem ipsum dolor, Lorem ipsum dolor",
@@ -32,7 +32,7 @@
       "id": 4
     },
     {
-      "prio": 2,
+      "prio": 3,
       "created": 1584885413545,
       "headline": "Wichtige Info 2",
       "content": "Ipsum dolor, Lorem ipsum dolor, Lorem ipsum dolor, Lorem ipsum dolor, Lorem ipsum dolordolor, Lorem ipsum dolor, Lorem ipsum dolor, Lorem ipsum dolor",
