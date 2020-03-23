@@ -3,35 +3,51 @@
     {
       "id": 1,
       "prio": 1,
-      "headline": "Wichtige Info",
-      "content": "STATIC Lorem Ipsum is simply. Lorem Ipsum is simply. Lorem Ipsum is simply.",
+      "headline": "Sehr Sehr Wichtige Info",
+      "content": "Lorem Ipsum is simply. Lorem Ipsum is simply. Lorem Ipsum is simply.",
       "created": 1579882496110,
       "archived": true
     },
     {
       "id": 2,
       "prio": 2,
-      "headline": "Wichtige Info - Prio 2",
-      "content": "STATIC Lorem ipsum dolor, Lorem ipsum dolor, Lorem ipsum dolor, Lorem ipsum dolor, Lorem ipsum",
+      "headline": "Sehr Wichtige Info",
+      "content": "Lorem ipsum dolor, Lorem ipsum dolor, Lorem ipsum dolor, Lorem ipsum dolor, Lorem ipsum",
       "created": 1579882496115
     },
     {
       "prio": 3,
       "created": 1584885413545,
-      "headline": "Wichtige Info",
-      "content": "22.03, 14:56:01 –— Lorem ipsum dolor, Lorem ipsum dolor, Lorem ipsum dolor, Lorem ipsum dolor, Lorem ipsum dolordolor, Lorem ipsum dolor, Lorem ipsum dolor, Lorem ipsum dolor",
+      "headline": "Wichtige Info 4",
+      "content": "Lorem ipsum dolor, Lorem ipsum dolor, Lorem ipsum dolor, Lorem ipsum dolordolor, Lorem ipsum dolor, Lorem ipsum dolor, Lorem ipsum dolor",
+      "archived": false,
+      "id": 3
+    },
+    {
+      "prio": 1,
+      "created": 1584885413545,
+      "headline": "Wichtige Info 3",
+      "content": "Dolor, Lorem ipsum dolor, Lorem ipsum dolor, Lorem ipsum dolor, Lorem ipsum dolordolor, Lorem ipsum dolor, Lorem ipsum dolor, Lorem ipsum dolor",
       "archived": true,
-      "id": 14
+      "id": 4
+    },
+    {
+      "prio": 2,
+      "created": 1584885413545,
+      "headline": "Wichtige Info 2",
+      "content": "Ipsum dolor, Lorem ipsum dolor, Lorem ipsum dolor, Lorem ipsum dolor, Lorem ipsum dolordolor, Lorem ipsum dolor, Lorem ipsum dolor, Lorem ipsum dolor",
+      "archived": true,
+      "id": 5
     },
     {
       "prio": 3,
-      "headline": "Wichtige Info",
-      "content": "23.03, 12:36:35 –— Lorem ipsum dolor, Lorem ipsum dolor, Lorem ipsum dolor, Lorem ipsum dolor, Lorem ipsum dolordolor, Lorem ipsum dolor, Lorem ipsum dolor, Lorem ipsum dolor",
+      "headline": "Wichtige Info 1",
+      "content": "Lorem ipsum dolor, Lorem ipsum dolor, Lorem ipsum dolor, Lorem ipsum dolor, Lorem ipsum dolordolor, Lorem ipsum dolor, Lorem ipsum dolor, Lorem ipsum dolor",
       "created": 1584963396897,
       "confirmed": "",
       "expires": 1592735796897,
-      "archived": false,
-      "id": 16
+      "archived": true,
+      "id": 6
     }
   ]
 }
